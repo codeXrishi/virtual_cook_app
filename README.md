@@ -50,3 +50,4 @@ flutter run
 
 ## Screenshots
 
+![image alt](https://github.com/codeXrishi/virtual_cook_app/blob/main/1.png?raw=true)
