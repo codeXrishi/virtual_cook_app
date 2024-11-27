@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "742003199427",
+    "project_id": "virtual-cook-1dbdb",
+    "storage_bucket": "virtual-cook-1dbdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742003199427:android:bf58227e1010f5408bc176",
+        "android_client_info": {
+          "package_name": "com.example.virtual_cook"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX04Gx7Xg0z15oVLSQXL4GmUpwYhGiVwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
