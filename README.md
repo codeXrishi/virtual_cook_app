@@ -47,3 +47,6 @@ Run the app:
 bash
 Copy code
 flutter run
+
+## Screenshots
+
